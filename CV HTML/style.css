@@ -1,0 +1,49 @@
+header {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px 0;
+    border-radius: 0 0 20px 20px;
+}
+
+h1 {
+    color:black;
+    margin: 0;
+    padding: 8px 0;
+    border: solid 2px white;
+    font-size: 1.5em;
+}
+
+h3{
+    font-size: 1.4em;
+}
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+header img {
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+main {
+    padding: 0 35px;
+}
+
+#contatti {
+    border: solid 2px aquamarine;
+    padding: 0 15px;
+    margin-top: 30 px;
+    background-color: aquamarine;
+    color:black
+    
+}
+
+#contatti ul li {
+  list-style: none;  
+}
+
+#contatti ul li img {
+    margin-right: 10 px;
+}
